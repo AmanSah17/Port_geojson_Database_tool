@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv
+torch_gpu/
+*.pt
+*.pth
+
+# Node
+node_modules/
+dist/
+
+# MongoDB / Data
+data/
+*.geojson
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+

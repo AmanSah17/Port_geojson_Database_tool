@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Chittagong Port",
+        "country": "Bangladesh",
+        "type": "Major Seaport",
+        "lat": 22.3033,
+        "lon": 91.8003,
+        "details": "Main deep-water port of Bangladesh."
+    },
+    {
+        "name": "Mongla Port",
+        "country": "Bangladesh",
+        "type": "Major Seaport",
+        "lat": 22.4867,
+        "lon": 89.5905,
+        "details": "Large sea port in southwest Bangladesh."
+    },
+    {
+        "name": "Payra Port",
+        "country": "Bangladesh",
+        "type": "Sea Port (minor)",
+        "lat": 21.9833,
+        "lon": 90.3167,
+        "details": "Emerging maritime port."
+    },
+    {
+        "name": "Matarbari Port",
+        "country": "Bangladesh",
+        "type": "Deep Sea Port (construct)",
+        "lat": 21.5000,
+        "lon": 92.0800,
+        "details": "Deep-sea port under development."
+    },
+    {
+        "name": "Dhaka River Port",
+        "country": "Bangladesh",
+        "type": "Inland Port",
+        "lat": 23.6876,
+        "lon": 90.4374,
+        "details": "Riverine container hub."
+    },
+    {
+        "name": "Narayanganj Port",
+        "country": "Bangladesh",
+        "type": "River/ Inland Port",
+        "lat": 23.615,
+        "lon": 90.505,
+        "details": "Key river port on Shitalakshya River."
+    },
+    {
+        "name": "Port of Barisal",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 22.7000,
+        "lon": 90.3667,
+        "details": "Major river port on Kirtankhola River."
+    },
+    {
+        "name": "Port of Khulna",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 22.8167,
+        "lon": 89.5583,
+        "details": "On Bhairab River, significant inland waterway port."
+    },
+    {
+        "name": "Port of Noapara",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 23.2000,
+        "lon": 89.1500,
+        "details": "River port on Bhairab River at Abhaynagar."
+    },
+    {
+        "name": "Port of Ashuganj",
+        "country": "Bangladesh",
+        "type": "Inland River Port",
+        "lat": 24.0000,
+        "lon": 90.6167,
+        "details": "Operating terminal on Meghna River."
+    },
+    {
+        "name": "Port of Chandpur",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 23.2333,
+        "lon": 90.6500,
+        "details": "River port on Meghna River."
+    },
+    {
+        "name": "Aricha Ghat",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 23.8500,
+        "lon": 89.7833,
+        "details": "Ferry and river port on Padma River."
+    },
+    {
+        "name": "Faridpur River Port",
+        "country": "Bangladesh",
+        "type": "Inland Port",
+        "lat": 23.6000,
+        "lon": 89.8400,
+        "details": "Inland port on Padma River."
+    },
+    {
+        "name": "Baghabari River Port",
+        "country": "Bangladesh",
+        "type": "Inland Port",
+        "lat": 24.0167,
+        "lon": 89.7167,
+        "details": "Sirajganj area river port."
+    },
+    {
+        "name": "Tongi River Port",
+        "country": "Bangladesh",
+        "type": "Inland Port",
+        "lat": 23.8667,
+        "lon": 90.4100,
+        "details": "On Turag River."
+    },
+    {
+        "name": "Chilmari River Port",
+        "country": "Bangladesh",
+        "type": "Inland Port",
+        "lat": 25.7833,
+        "lon": 89.6167,
+        "details": "River port (Kurigram)."
+    },
+    {
+        "name": "Patuakhali River Port",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 22.3600,
+        "lon": 90.3333,
+        "details": "Bay region river port."
+    },
+    {
+        "name": "Bhola River Port",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 22.6833,
+        "lon": 90.6333,
+        "details": "On Meghna distributary."
+    },
+    {
+        "name": "Daulatdia River Port",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 23.4500,
+        "lon": 89.8167,
+        "details": "Inland payload port."
+    },
+    {
+        "name": "Lakshmipur River Port",
+        "country": "Bangladesh",
+        "type": "River Port",
+        "lat": 22.9500,
+        "lon": 90.7500,
+        "details": "Coastal river port."
+    },
+    {
+        "name": "Tanjung Priok Port",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -6.1203,
+        "lon": 106.8242,
+        "details": "Indonesia’s busiest container port (Jakarta)."
+    },
+    {
+        "name": "Tanjung Perak Port",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -7.1964,
+        "lon": 112.7331,
+        "details": "Second largest port role at Surabaya."
+    },
+    {
+        "name": "Port of Belawan",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": 3.7833,
+        "lon": 98.6833,
+        "details": "Busiest seaport outside Java."
+    },
+    {
+        "name": "Port of Makassar",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -5.1167,
+        "lon": 119.3833,
+        "details": "Key Sulawesi port."
+    },
+    {
+        "name": "Port of Cirebon",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": -6.6667,
+        "lon": 108.5333,
+        "details": "Northern Java seaport."
+    },
+    {
+        "name": "Port of Dumai",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": 1.6833,
+        "lon": 101.4333,
+        "details": "Oil and general cargo port in Sumatra."
+    },
+    {
+        "name": "Port of Teluk Bayur",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": -0.9500,
+        "lon": 100.3500,
+        "details": "Major West Sumatra port."
+    },
+    {
+        "name": "Port of Pontianak",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": 0.0167,
+        "lon": 109.3333,
+        "details": "Borneo riverine port with sea access."
+    },
+    {
+        "name": "Balikpapan Port",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -1.2719,
+        "lon": 116.8062,
+        "details": "East Kalimantan main hub."
+    },
+    {
+        "name": "Banjarmasin Port",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -3.3281,
+        "lon": 114.5578,
+        "details": "South Kalimantan key port."
+    },
+    {
+        "name": "Batam Port (Batu Ampar)",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": 1.1646,
+        "lon": 103.9998,
+        "details": "Riau Islands strategic port."
+    },
+    {
+        "name": "Port of Pangkal Balam",
+        "country": "Indonesia",
+        "type": "Seaport",
+        "lat": -2.1130,
+        "lon": 106.1320,
+        "details": "Bangka island regional port."
+    },
+    {
+        "name": "Ambon Port",
+        "country": "Indonesia",
+        "type": "Major Seaport",
+        "lat": -3.6949,
+        "lon": 128.1756,
+        "details": "Maluku principal port."
+    },
+    {
+        "name": "Air Bangis Port",
+        "country": "Indonesia",
+        "type": "Local Feeder Port",
+        "lat": 0.1992,
+        "lon": 99.3802,
+        "details": "Feeder classification (Sumatra)."
+    },
+    {
+        "name": "Anyer Lor Port",
+        "country": "Indonesia",
+        "type": "Regional Feeder Port",
+        "lat": -6.0260,
+        "lon": 105.9398,
+        "details": "Regional feeder (Java)."
+    },
+    {
+        "name": "Baing Port",
+        "country": "Indonesia",
+        "type": "Local Feeder Port",
+        "lat": -10.2398,
+        "lon": 120.5706,
+        "details": "East Nusa Tenggara."
+    }
+]
